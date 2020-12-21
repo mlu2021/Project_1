@@ -1,0 +1,7 @@
+# Appendix A Map: 8x8 with many no water
+M
+4
+.ooo
+oooo
+oooo
+ooo@
